@@ -2,7 +2,7 @@
 
 ## Download Link for original file:
 GitHub has a maximum upload size limit of 25 MB. The file exceeds this limit. You can download the file from the provided Google Drive link.
-## https://docs.google.com/spreadsheets/d/1nE4_tByTBNtuVJH_bJ4mGa1LUHUrVWtI/edit?usp=sharing&ouid=106614080927275501005&rtpof=true&sd=true
+https://docs.google.com/spreadsheets/d/1nE4_tByTBNtuVJH_bJ4mGa1LUHUrVWtI/edit?usp=sharing&ouid=106614080927275501005&rtpof=true&sd=true
 
 ## Overview
 This Excel-based dashboard provides a comprehensive view of road accident statistics, focusing on casualties across different parameters.
